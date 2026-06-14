@@ -1,7 +1,7 @@
 # local notes
-*.md
+plan.md
+plan.html
 *.env
-*.html
 
 # IDE
 .idea/
