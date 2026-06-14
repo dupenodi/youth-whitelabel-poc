@@ -1,0 +1,36 @@
+# local notes
+*.md
+*.env
+*.html
+
+# IDE
+.idea/
+.vscode/
+
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+*.g.dart
+pubspec.lock
+
+# iOS
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/ephemeral/
+**/ios/Pods/
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/.symlinks/
+**/DerivedData/
+xcuserdata/
+
+# Android
+**/android/.gradle/
+**/android/captures/
+**/android/local.properties
+**/android/GeneratedPluginRegistrant.java
+
+# Python
+__pycache__/
+*.pyc
+.venv/

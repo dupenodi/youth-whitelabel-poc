@@ -1,0 +1,32 @@
+{
+  "client_id": "healthplus",
+  "app_name": "HealthPlus",
+  "tagline": "Your health, simplified.",
+  "primary_color": "#1A56DB",
+  "secondary_color": "#E8F0FE",
+  "accent_color": "#0D47A1",
+  "background_color": "#F4F7FC",
+  "text_primary": "#1A1A2E",
+  "text_secondary": "#5A6A8A",
+  "logo_url": "https://placehold.co/200x60/1A56DB/FFFFFF?text=HealthPlus",
+  "theme_style": "corporate",
+  "border_radius": 8,
+  "card_style": "elevated",
+  "hero_style": "solid",
+  "features": {
+    "show_vitals": true,
+    "show_appointments": true,
+    "show_telemedicine": false,
+    "show_pharmacy": true
+  },
+  "strings": {
+    "home_greeting": "Good morning",
+    "quick_access_title": "Clinical Tools",
+    "vitals_title": "My Vitals",
+    "appointments_title": "Upcoming Appointments",
+    "pharmacy_title": "Pharmacy Orders",
+    "telemedicine_title": "Video Consult",
+    "cta_book": "Book Appointment",
+    "powered_by": "Powered by YOUTH Health Tech"
+  }
+}

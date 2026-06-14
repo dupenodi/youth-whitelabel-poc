@@ -1,0 +1,32 @@
+{
+  "client_id": "vitacare",
+  "app_name": "VitaCare",
+  "tagline": "Care that comes to you.",
+  "primary_color": "#16A34A",
+  "secondary_color": "#DCFCE7",
+  "accent_color": "#14532D",
+  "background_color": "#F0FDF4",
+  "text_primary": "#14532D",
+  "text_secondary": "#4B7A5E",
+  "logo_url": "https://placehold.co/200x60/16A34A/FFFFFF?text=VitaCare",
+  "theme_style": "wellness",
+  "border_radius": 24,
+  "card_style": "outlined",
+  "hero_style": "gradient",
+  "features": {
+    "show_vitals": true,
+    "show_appointments": true,
+    "show_telemedicine": true,
+    "show_pharmacy": false
+  },
+  "strings": {
+    "home_greeting": "Welcome back",
+    "quick_access_title": "Your Care Hub",
+    "vitals_title": "Health Summary",
+    "appointments_title": "Your Schedule",
+    "pharmacy_title": "Medication Delivery",
+    "telemedicine_title": "Talk to a Doctor",
+    "cta_book": "Schedule Visit",
+    "powered_by": "Care by YOUTH"
+  }
+}

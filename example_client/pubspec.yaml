@@ -1,0 +1,16 @@
+name: vitacare_app
+description: VitaCare longevity clinic app — powered by YOUTH SDK.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # This one line is the entire YOUTH integration.
+  # Bump version here to get all new biomarkers, features, and improvements
+  # that YOUTH ships — no code changes required in this app.
+  youth_sdk:
+    path: ../youth_sdk   # in production: youth_sdk: ^1.0.0

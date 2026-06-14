@@ -1,0 +1,32 @@
+{
+  "client_id": "mediview",
+  "app_name": "MediView",
+  "tagline": "See your health clearly.",
+  "primary_color": "#7C3AED",
+  "secondary_color": "#EDE9FE",
+  "accent_color": "#5B21B6",
+  "background_color": "#FAF5FF",
+  "text_primary": "#3B0764",
+  "text_secondary": "#6D28D9",
+  "logo_url": "https://placehold.co/200x60/7C3AED/FFFFFF?text=MediView",
+  "theme_style": "corporate",
+  "border_radius": 12,
+  "card_style": "elevated",
+  "hero_style": "gradient",
+  "features": {
+    "show_vitals": true,
+    "show_appointments": true,
+    "show_telemedicine": true,
+    "show_pharmacy": false
+  },
+  "strings": {
+    "home_greeting": "Hello",
+    "quick_access_title": "Patient Portal",
+    "vitals_title": "Lab Results",
+    "appointments_title": "Consultations",
+    "pharmacy_title": "Prescriptions",
+    "telemedicine_title": "Virtual Visit",
+    "cta_book": "Request Consultation",
+    "powered_by": "MediView × YOUTH"
+  }
+}
